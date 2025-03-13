@@ -179,13 +179,13 @@ Late submissions will be accepted only with prior approval and under extenuating
 
 # **Assignments and Final Project and Lab Report Outline**
 
-## **Assignment 1: Literature Review on a Biocontrol Agent (Week 4-6)**
+### **Assignment 1: Literature Review on a Biocontrol Agent (Week 4-6)**
 
 **Objective:** Research and summarize the current scientific literature on a specific biological control agent.
 
 **Purpose:** To synthesize scientific literature and critically analyze research gaps.
 
-### **Key Components:**
+#### **Key Components:**
 - Biological characteristics of the organism
 - Mode of action against pests
 - Effectiveness in different cropping systems
@@ -194,13 +194,13 @@ Late submissions will be accepted only with prior approval and under extenuating
 **Deliverable:** Written summary (2 pages).
 
 
-## **Assignment 2: Biocontrol Implementation Plan (Week 6-7)**
+### **Assignment 2: Biocontrol Implementation Plan (Week 6-7)**
 
 **Objective:** Develop a practical implementation plan for integrating biological control into a real-world agricultural or greenhouse system.
 
 **Purpose:** To bridge the gap between research and field application, focusing on the practical implementation of biocontrol strategies in real-world agricultural settings.
 
-### **Key Components:**
+#### **Key Components:**
 - Select a cropping system (e.g., greenhouse tomatoes, field corn, orchards, or stored grain facilities).
 - Identify key pests in that system and evaluate their current management strategies.
 - Propose a biological control approach (natural enemies, entomopathogenic fungi, microbial biopesticides, habitat manipulation, etc.).
@@ -210,13 +210,13 @@ Late submissions will be accepted only with prior approval and under extenuating
 **Deliverable:** Written summary (2 pages).
 
 
-## **Lab Bioassay Data Analysis & Interpretation Report (Week 11-12)**
+### **Lab Bioassay Data Analysis & Interpretation Report (Week 11-12)**
 
 **Purpose:** Develop data analysis skills relevant to biocontrol research and field applications.
 
 **Objective:** To analyze real experimental data from a bioassay conducted in the lab and interpret the results.
 
-### **Key Components:**
+#### **Key Components:**
 - Statistical analysis (ANOVA, regression, or appropriate method)
 - Interpretation of mortality rates, virulence, or biocontrol efficacy
 - Discussion of potential errors, confounding factors, and improvements
@@ -227,13 +227,13 @@ Late submissions will be accepted only with prior approval and under extenuating
 
 ## **Final Project (Choose One Option)**
 
-## **Option 1: Research Proposal on Biological Control (Graduate School-Level Assignment)**
+### **Option 1: Research Proposal on Biological Control (Graduate School-Level Assignment)**
 
 **Purpose:** Mimics grant-writing and research proposal development, useful for students considering graduate school or research careers.
 
 **Objective:** Develop a detailed research proposal for an experiment or field trial testing a biological control method.
 
-### **Key Components:**
+#### **Key Components:**
 - Introduction & background (define the pest problem)
 - Hypothesis & research question
 - Experimental design & methodology
@@ -245,13 +245,13 @@ Late submissions will be accepted only with prior approval and under extenuating
 - Presentation (10-12 slides, 20 to 30 minutes).
 
 
-## **Option 2: Case Study on a Biocontrol Success or Failure**
+### **Option 2: Case Study on a Biocontrol Success or Failure**
 
 **Purpose:** Encourages real-world application and critical thinking about how biocontrol strategies translate from theory to practice.
 
 **Objective:** Analyze a real-world case study where a biological control strategy was either highly successful or failed.
 
-### **Key Components:**
+#### **Key Components:**
 - Background on the pest problem and biocontrol strategy used
 - Analysis of why it succeeded or failed (e.g., environmental, ecological, economic factors)
 - Recommendations for improving biocontrol implementation
@@ -262,13 +262,13 @@ Late submissions will be accepted only with prior approval and under extenuating
 - Presentation (10-12 slides, 20 to 30 minutes).
 
 
-## **Extra Credit: Logic Model (Week 12)**
+### **Extra Credit: Logic Model (Week 12)**
 
 **Objective:** Develop a logic model to illustrate the inputs, outputs, outcomes, and impacts of the IPM plan.
 
 **Framework:** Use the [NIFA Generic Logic Model](https://www.nifa.usda.gov/sites/default/files/resource/Generic%20Logic%20Model%20for%20NIFA%20Reporting.pdf) as a framework.
 
-### **Key Components:**
+#### **Key Components:**
 - **Inputs:** List the resources, stakeholders, and initial conditions.
 - **Outputs:** Describe the activities, services, and products generated.
 - **Outcomes:** Identify the short-term, medium-term, and long-term outcomes.
