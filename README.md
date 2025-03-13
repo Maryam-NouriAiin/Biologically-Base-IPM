@@ -1,6 +1,6 @@
-<div style="text-align: center;">
 
-# **ALE 5990 72 Biologically Based IPM**  
+
+<center> # **ALE 5990 72 Biologically Based IPM**  <center>
 # Summer 2025
 ---
 
