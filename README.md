@@ -111,8 +111,8 @@ Attendance and participation are vital for success in this course. Students are 
 **Policy on Illness and Absences**  
 Students experiencing acute illnesses (e.g., flu, stomach bug) are encouraged to rest and recover. In such cases, students should notify the instructor via email. Make-up work will be arranged as needed.
 
-**Online Attendance Option**  
-This course runs throughout the summer, and I understand that occasional scheduling conflicts may arise. To accommodate this, each student may attend up to **two class sessions online** during the summer.
+> **Online Attendance Option**  
+>> This course runs throughout the summer, and I understand that occasional scheduling conflicts may arise. To accommodate this, each student may attend up to **two class sessions online** during the summer.
 
 - A lecture link will be provided **only** to students who request online attendance **at least one week in advance** of the session they wish to attend.
 - **Lab sessions cannot be made up**, so students attending online are responsible for coordinating with classmates to maintain their experiments and stay updated on lab activities.
@@ -179,102 +179,102 @@ Late submissions will be accepted only with prior approval and under extenuating
 
 # **Assignments and Final Project and Lab Report Outline**
 
-### ***Assignment 1: Literature Review on a Biocontrol Agent (Week 4-6)***
+> ### ***Assignment 1: Literature Review on a Biocontrol Agent (Week 4-6)***
 
-**Objective:** Research and summarize the current scientific literature on a specific biological control agent.
+>> **Objective:** Research and summarize the current scientific literature on a specific biological control agent.
 
-**Purpose:** To synthesize scientific literature and critically analyze research gaps.
+>> **Purpose:** To synthesize scientific literature and critically analyze research gaps.
 
-#### **Key Components:**
-- Biological characteristics of the organism
-- Mode of action against pests
-- Effectiveness in different cropping systems
-- Limitations and challenges in field application
+>> #### **Key Components:**
+>> - Biological characteristics of the organism
+>> - Mode of action against pests
+>> - Effectiveness in different cropping systems
+>> - Limitations and challenges in field application
 
-**Deliverable:** Written summary (2 pages).
-
-
-### ***Assignment 2: Biocontrol Implementation Plan (Week 6-7)***
-
-**Objective:** Develop a practical implementation plan for integrating biological control into a real-world agricultural or greenhouse system.
-
-**Purpose:** To bridge the gap between research and field application, focusing on the practical implementation of biocontrol strategies in real-world agricultural settings.
-
-#### **Key Components:**
-- Select a cropping system (e.g., greenhouse tomatoes, field corn, orchards, or stored grain facilities).
-- Identify key pests in that system and evaluate their current management strategies.
-- Propose a biological control approach (natural enemies, entomopathogenic fungi, microbial biopesticides, habitat manipulation, etc.).
-- Develop an application and monitoring plan, considering timing, environmental conditions, and compatibility with other IPM methods.
-- Discuss potential challenges (e.g., environmental factors, cost, regulatory issues).
-
-**Deliverable:** Written summary (2 pages).
+>> **Deliverable:** Written summary (2 pages).
 
 
-### ***Lab Bioassay Data Analysis & Interpretation Report (Week 11-12)***
+> ### ***Assignment 2: Biocontrol Implementation Plan (Week 6-7)***
 
-**Purpose:** Develop data analysis skills relevant to biocontrol research and field applications.
+>> **Objective:** Develop a practical implementation plan for integrating biological control into a real-world agricultural or greenhouse system.
 
-**Objective:** To analyze real experimental data from a bioassay conducted in the lab and interpret the results.
+>> **Purpose:** To bridge the gap between research and field application, focusing on the practical implementation of biocontrol strategies in real-world agricultural settings.
 
-#### **Key Components:**
-- Statistical analysis (ANOVA, regression, or appropriate method)
-- Interpretation of mortality rates, virulence, or biocontrol efficacy
-- Discussion of potential errors, confounding factors, and improvements
+>> #### **Key Components:**
+>> - Select a cropping system (e.g., greenhouse tomatoes, field corn, orchards, or stored grain facilities).
+>> - Identify key pests in that system and evaluate their current management strategies.
+>> - Propose a biological control approach (natural enemies, entomopathogenic fungi, microbial biopesticides, habitat manipulation, etc.).
+>> - Develop an application and monitoring plan, considering timing, environmental conditions, and compatibility with other IPM methods.
+>> - Discuss potential challenges (e.g., environmental factors, cost, regulatory issues).
 
-**Deliverable:** Short report (~3-5 pages) with figures, tables, and discussion.  
-**Presentation:** 15 to 20-minute presentation.
+>> **Deliverable:** Written summary (2 pages).
+
+
+> ### ***Lab Bioassay Data Analysis & Interpretation Report (Week 11-12)***
+
+>> **Purpose:** Develop data analysis skills relevant to biocontrol research and field applications.
+
+>> **Objective:** To analyze real experimental data from a bioassay conducted in the lab and interpret the results.
+
+>> #### **Key Components:**
+>> - Statistical analysis (ANOVA, regression, or appropriate method)
+>> - Interpretation of mortality rates, virulence, or biocontrol efficacy
+>> - Discussion of potential errors, confounding factors, and improvements
+
+>> **Deliverable:** Short report (~3-5 pages) with figures, tables, and discussion.  
+>> **Presentation:** 15 to 20-minute presentation.
 
 
 ## **Final Project (Choose One Option)**
 
-### ***Option 1: Research Proposal on Biological Control (Graduate School-Level Assignment)***
+> ### ***Option 1: Research Proposal on Biological Control (Graduate School-Level Assignment)***
 
-**Purpose:** Mimics grant-writing and research proposal development, useful for students considering graduate school or research careers.
+>> **Purpose:** Mimics grant-writing and research proposal development, useful for students considering graduate school or research careers.
 
-**Objective:** Develop a detailed research proposal for an experiment or field trial testing a biological control method.
+>> **Objective:** Develop a detailed research proposal for an experiment or field trial testing a biological control method.
 
-#### **Key Components:**
-- Introduction & background (define the pest problem)
-- Hypothesis & research question
-- Experimental design & methodology
-- Expected outcomes & potential challenges
-- Proposed data analysis methods
+>> #### **Key Components:**
+>> - Introduction & background (define the pest problem)
+>> - Hypothesis & research question
+>> - Experimental design & methodology
+>> - Expected outcomes & potential challenges
+>> - Proposed data analysis methods
 
-**Deliverable:**  
-- 4-8 page research proposal in USDA-style or another scientific format.  
-- Presentation (10-12 slides, 20 to 30 minutes).
-
-
-### ***Option 2: Case Study on a Biocontrol Success or Failure***
-
-**Purpose:** Encourages real-world application and critical thinking about how biocontrol strategies translate from theory to practice.
-
-**Objective:** Analyze a real-world case study where a biological control strategy was either highly successful or failed.
-
-#### **Key Components:**
-- Background on the pest problem and biocontrol strategy used
-- Analysis of why it succeeded or failed (e.g., environmental, ecological, economic factors)
-- Recommendations for improving biocontrol implementation
-- Broader lessons for IPM strategies
-
-**Deliverable:**  
-- Written report (4-7 pages).  
-- Presentation (10-12 slides, 20 to 30 minutes).
+>> **Deliverable:**  
+>> - 4-8 page research proposal in USDA-style or another scientific format.  
+>> - Presentation (10-12 slides, 20 to 30 minutes).
 
 
-### ***Extra Credit: Logic Model (Week 12)***
+> ### ***Option 2: Case Study on a Biocontrol Success or Failure***
 
-**Objective:** Develop a logic model to illustrate the inputs, outputs, outcomes, and impacts of the IPM plan.
+>> **Purpose:** Encourages real-world application and critical thinking about how biocontrol strategies translate from theory to practice.
 
-**Framework:** Use the [NIFA Generic Logic Model](https://www.nifa.usda.gov/sites/default/files/resource/Generic%20Logic%20Model%20for%20NIFA%20Reporting.pdf) as a framework.
+>> **Objective:** Analyze a real-world case study where a biological control strategy was either highly successful or failed.
 
-#### **Key Components:**
-- **Inputs:** List the resources, stakeholders, and initial conditions.
-- **Outputs:** Describe the activities, services, and products generated.
-- **Outcomes:** Identify the short-term, medium-term, and long-term outcomes.
-- **Impacts:** Discuss the broader impacts on the community, environment, and economy.
+>> #### **Key Components:**
+>> - Background on the pest problem and biocontrol strategy used
+>> - Analysis of why it succeeded or failed (e.g., environmental, ecological, economic factors)
+>> - Recommendations for improving biocontrol implementation
+>> - Broader lessons for IPM strategies
 
-**Deliverable:** Submit the logic model as a separate file along with the final project.
+>> **Deliverable:**  
+>> - Written report (4-7 pages).  
+>> - Presentation (10-12 slides, 20 to 30 minutes).
+
+
+> ### ***Extra Credit: Logic Model (Week 12)***
+
+>> **Objective:** Develop a logic model to illustrate the inputs, outputs, outcomes, and impacts of the IPM plan.
+
+>> **Framework:** Use the [NIFA Generic Logic Model](https://www.nifa.usda.gov/sites/default/files/resource/Generic%20Logic%20Model%20for%20NIFA%20Reporting.pdf) as a framework.
+
+>> #### **Key Components:**
+>> - **Inputs:** List the resources, stakeholders, and initial conditions.
+>> - **Outputs:** Describe the activities, services, and products generated.
+>> - **Outcomes:** Identify the short-term, medium-term, and long-term outcomes.
+>> - **Impacts:** Discuss the broader impacts on the community, environment, and economy.
+
+>>> **Deliverable:** Submit the logic model as a separate file along with the final project.
 
 ---
 
