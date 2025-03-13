@@ -1,4 +1,3 @@
----
 <div align="center">
 
 # **ALE 5990 72 Biologically Based IPM**  
