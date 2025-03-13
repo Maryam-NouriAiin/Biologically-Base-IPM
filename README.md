@@ -1,3 +1,4 @@
+
 **ALE 5990 72 Biologically Based IPM**    
 
 **Summer 2025**    
@@ -78,53 +79,53 @@ Upon completion of this course, students will be able to:
 
 ·    **Required Software and Platforms****:** 
 
-o  **Brightspace:** All course materials, including lecture slides, reading assignments, and quizzes, will be hosted on Brightspace. Weekly quizzes and some assignments must be submitted through the platform. Instructions for Brightspace access: [Brightspace for Students](https://www.uvm.edu/it/kb/article/brightspace-for-students/).
+​		• **Brightspace:** All course materials, including lecture slides, reading assignments, and quizzes, will be hosted on Brightspace. Weekly quizzes and some assignments must be submitted through the platform. Instructions for Brightspace access: [Brightspace for Students](https://www.uvm.edu/it/kb/article/brightspace-for-students/).
 
-o  **Microsoft Teams:** Used for virtual office hours and team collaborations as needed. Students should ensure they have access to Teams through their UVM credentials.
+​		• **Microsoft Teams:** Used for virtual office hours and team collaborations as needed. Students should ensure they have access to Teams through their UVM credentials.
 
-o  **R Studio:** Data analysis software for lab and field data. R is free to download and install: [Download R](https://cran.r-project.org/).
+​		• **R Studio:** Data analysis software for lab and field data. R is free to download and install: [Download R](https://cran.r-project.org/).
 
 ·    **Required Lab Safety & Training****:** [EPA Worker Protection](https://riskmgmt.w3.uvm.edu/courses/), [Greenhouse Safety](https://riskmgmt.w3.uvm.edu/courses/), [CHaMPS](https://uvm.scishield.com/).
 
 ·    **Other Materials:**
 
-o  Lab notebooks (available at the UVM Bookstore).
+​		• Lab notebooks (available at the UVM Bookstore).
 
-o  Appropriate attire for field visits, including closed-toe shoes and weather-appropriate clothing.
+​		• Appropriate attire for field visits, including closed-toe shoes and weather-appropriate clothing.
 
-o  Personal protective equipment (e.g., gloves and safety goggles), provided for lab activities.
+​		• Personal protective equipment (e.g., gloves and safety goggles), provided for lab activities.
 
 # **Attendance Policy and Classroom Environment Expectations**
 
 **Attendance:** Attendance and participation are vital for success in this course. Students are expected to:
 
-·    Attend all lectures, labs, and field visits.
+​	·    Attend all lectures, labs, and field visits.
 
-·    Actively engage in discussions and group activities.
+​	·    Actively engage in discussions and group activities.
 
-·    Notify the instructor in advance if unable to attend due to illness or extenuating circumstances.
+​	·    Notify the instructor in advance if unable to attend due to illness or extenuating circumstances.
 
 **Policy on Illness and Absences:** Students experiencing acute illnesses (e.g., flu, stomach bug) are encouraged to rest and recover. In such cases, students should notify the instructor via email. Make-up work will be arranged as needed.
 
 **Online Attendance Option:** This course runs throughout the summer, and I understand that occasional scheduling conflicts may arise. To accommodate this, each student may attend up to **two class sessions online** during the summer.
 
-·    A lecture link will be provided **only** to students who request online attendance **at least one week in advance** of the session they wish to attend.
+​	·    A lecture link will be provided **only** to students who request online attendance **at least one week in advance** of the session they wish to attend.
 
-·    **Lab sessions cannot be made up**, so students attending online are responsible for coordinating with classmates to maintain their experiments and stay updated on lab activities.
+​	·    **Lab sessions cannot be made up**, so students attending online are responsible for coordinating with classmates to maintain their experiments and stay updated on lab activities.
 
 **Classroom Environment Expectations:**
 
-·    Complete all assigned readings and homework prior to class.
+​	·    Complete all assigned readings and homework prior to class.
 
-·    Maintain respect for peers, instructors, and differing opinions.
+​	·    Maintain respect for peers, instructors, and differing opinions.
 
-·    Adhere to the Classroom Code of Conduct outlined in the [Undergraduate Catalogue](https://www.uvm.edu/catalogue).
+​	·    Adhere to the Classroom Code of Conduct outlined in the [Undergraduate Catalogue](https://www.uvm.edu/catalogue).
 
 **Confidentiality and Dialogue:**
 
-·    Discussions should remain respectful and constructive.
+​	·    Discussions should remain respectful and constructive.
 
-·    All students are expected to contribute to building an inclusive and supportive learning community.
+​	·    All students are expected to contribute to building an inclusive and supportive learning community.
 
 
 
@@ -132,29 +133,29 @@ o  Personal protective equipment (e.g., gloves and safety goggles), provided for
 
 **Grade Components:**
 
-·    Lab Attendance & Participation: 20%
+​	·    Lab Attendance & Participation: 20%
 
-·    Lecture & Field Day Participation: 15%
+​	·    Lecture & Field Day Participation: 15%
 
-·    Assignments (2 total): 25%
+​	·    Assignments (2 total): 25%
 
-·    Lab Report & Presentation: 15%
+​	·    Lab Report & Presentation: 15%
 
-·    Final Project & Presentation: 25%
+​	·    Final Project & Presentation: 25%
 
-·    Extra Credit: Logic Model (Up to 10% boost to final grade, optional)
+​	·    Extra Credit: Logic Model (Up to 10% boost to final grade, optional)
 
 **Grading Scale:**
 
-·    A: 90–100%
+​	·    A: 90–100%
 
-·    B: 80–89%
+​	·    B: 80–89%
 
-·    C: 70–79%
+​	·    C: 70–79%
 
-·    D: 60–69%
+​	·    D: 60–69%
 
-·    F: 59% and below
+​	·    F: 59% and below
 
 
 
@@ -162,47 +163,47 @@ o  Personal protective equipment (e.g., gloves and safety goggles), provided for
 
 **Lab & Field Participation**
 
-·    Objective: Gain hands-on experience with biological control techniques and monitoring methods.
+​	·    Objective: Gain hands-on experience with biological control techniques and monitoring methods.
 
-·    Assessment Criteria: Active participation, engagement in activities, and adherence to safety protocols.
+​	·    Assessment Criteria: Active participation, engagement in activities, and adherence to safety protocols.
 
 **Assignments**
 
-·    Objective: Strengthen practical skills and deepen understanding of biological control concepts.
+​	·    Objective: Strengthen practical skills and deepen understanding of biological control concepts.
 
-·    Format: Written reports or presentations, incorporating diagrams and references where applicable.
+​	·    Format: Written reports or presentations, incorporating diagrams and references where applicable.
 
-·    Submission: Upload via Brightspace by the designated deadlines.
+​	·    Submission: Upload via Brightspace by the designated deadlines.
 
-o  Assignment 1: Due between Weeks 4–6
+​		• Assignment 1: Due between Weeks 4–6
 
-o  Assignment 2: Due between Weeks 6–8
+​		• Assignment 2: Due between Weeks 6–8
 
 **Lab Report & Presentation**
 
-·    Objective: Integrate course knowledge and skills by developing a comprehensive proposal or report.
+​	·    Objective: Integrate course knowledge and skills by developing a comprehensive proposal or report.
 
-·    Format: A structured, typed report accompanied by a PowerPoint presentation.
+​	·    Format: A structured, typed report accompanied by a PowerPoint presentation.
 
-·    Submission Deadline: Final report and presentation slides due by Week 11-12.
+​	·    Submission Deadline: Final report and presentation slides due by Week 11-12.
 
 **Final Project & Presentation**
 
-·    Objective: Integrate course knowledge and skills by developing a comprehensive proposal or report.
+​	·    Objective: Integrate course knowledge and skills by developing a comprehensive proposal or report.
 
-·    Format: A structured, typed report accompanied by a PowerPoint presentation.
+​	·    Format: A structured, typed report accompanied by a PowerPoint presentation.
 
-·    Submission Deadline: Final report and presentation slide due by Week 12.
+​	·    Submission Deadline: Final report and presentation slide due by Week 12.
 
 **Key Deadlines Overview**
 
-·    Assignments: Weeks 4–8
+​	·    Assignments: Weeks 4–8
 
-·    Final Lab Report & Presentation: Week 11-12
+​	·    Final Lab Report & Presentation: Week 11-12
 
-·    Final Project Submission & Presentation: Week 12
+​	·    Final Project Submission & Presentation: Week 12
 
-·    Extra Credit: Logic Model: Week 12
+​	·    Extra Credit: Logic Model: Week 12
 
 # **Assignments and Final Project and Lab Report Outline** 
 
@@ -214,13 +215,13 @@ Purpose: To synthesize scientific literature and critically analyze research gap
 
 Key Components:
 
-·    Biological characteristics of the organism
+​	·    Biological characteristics of the organism
 
-·    Mode of action against pests
+​	·    Mode of action against pests
 
-·    Effectiveness in different cropping systems
+​	·    Effectiveness in different cropping systems
 
-·    Limitations and challenges in field application
+​	·    Limitations and challenges in field application
 
 Deliverable: Written summary (2 pages).
 
@@ -232,15 +233,15 @@ Purpose: To bridge the gap between research and field application, focusing on t
 
 Key Components:
 
-·    Select a cropping system (e.g., greenhouse tomatoes, field corn, orchards, or stored grain facilities).
+​	·    Select a cropping system (e.g., greenhouse tomatoes, field corn, orchards, or stored grain facilities).
 
-·    Identify key pests in that system and evaluate their current management strategies.
+​	·    Identify key pests in that system and evaluate their current management strategies.
 
-·    Propose a biological control approach (natural enemies, entomopathogenic fungi, microbial biopesticides, habitat manipulation, etc.).
+​	·    Propose a biological control approach (natural enemies, entomopathogenic fungi, microbial biopesticides, habitat manipulation, etc.).
 
-·    Develop an application and monitoring plan, considering timing, environmental conditions, and compatibility with other IPM methods.
+​	·    Develop an application and monitoring plan, considering timing, environmental conditions, and compatibility with other IPM methods.
 
-·    Discuss potential challenges (e.g., environmental factors, cost, regulatory issues).
+​	·    Discuss potential challenges (e.g., environmental factors, cost, regulatory issues).
 
 Deliverable: Written summary (2 pages).
 
@@ -252,11 +253,11 @@ Objective: To analyze real experimental data from a bioassay conducted in the la
 
 Key Components:
 
-·    Statistical analysis (ANOVA, regression, or appropriate method)
+​	·    Statistical analysis (ANOVA, regression, or appropriate method)
 
-·    Interpretation of mortality rates, virulence, or biocontrol efficacy
+​	·    Interpretation of mortality rates, virulence, or biocontrol efficacy
 
-·    Discussion of potential errors, confounding factors, and improvements
+​	·    Discussion of potential errors, confounding factors, and improvements
 
 Deliverable: Short report (~3-5 pages) with figures, tables, and discussion. And presenting the results in 15 to 20 minutes presentations.
 
@@ -270,15 +271,15 @@ Objective: Develop a detailed research proposal for an experiment or field trial
 
 Key Components:
 
-·    Introduction & background (define the pest problem)
+​	·    Introduction & background (define the pest problem)
 
-·    Hypothesis & research question
+​	·    Hypothesis & research question
 
-·    Experimental design & methodology
+​	·    Experimental design & methodology
 
-·    Expected outcomes & potential challenges
+​	·    Expected outcomes & potential challenges
 
-·    Proposed data analysis methods
+​	·    Proposed data analysis methods
 
 Deliverable: 4-8 page research proposal in USDA-style or another scientific format, and Presentation (10-12 slides, 20 to 30 minutes).
 
@@ -290,13 +291,13 @@ Objective: Analyze a real-world case study where a biological control strategy w
 
 Key Components:
 
-·    Background on the pest problem and biocontrol strategy used
+​	·    Background on the pest problem and biocontrol strategy used
 
-·    Analysis of why it succeeded or failed (e.g., environmental, ecological, economic factors)
+​	·    Analysis of why it succeeded or failed (e.g., environmental, ecological, economic factors)
 
-·    Recommendations for improving biocontrol implementation
+​	·    Recommendations for improving biocontrol implementation
 
-·    Broader lessons for IPM strategies
+​	·    Broader lessons for IPM strategies
 
 Deliverable: Written report (4-7 pages) and Presentation (10-12 slides, 20 to 30 minutes).
 
@@ -308,13 +309,13 @@ Deliverable: Written report (4-7 pages) and Presentation (10-12 slides, 20 to 30
 
 Key Components:
 
-·    Inputs: List the resources, stakeholders, and initial conditions.
+​	·    Inputs: List the resources, stakeholders, and initial conditions.
 
-·    Outputs: Describe the activities, services, and products generated.
+​	·    Outputs: Describe the activities, services, and products generated.
 
-·    Outcomes: Identify the short-term, medium-term, and long-term outcomes.
+​	·    Outcomes: Identify the short-term, medium-term, and long-term outcomes.
 
-·    Impacts: Discuss the broader impacts on the community, environment, and economy.
+​	·    Impacts: Discuss the broader impacts on the community, environment, and economy.
 
 Deliverable**:** Submit the logic model as a separate file along with the final project.
 
@@ -361,9 +362,9 @@ Unauthorized use of AI tools, including failing to disclose their use, will be c
 
 # **Collaboration Rules**
 
-·    Group projects or assignments explicitly designated as collaborative must involve equitable contributions from all group members.
+​	·    Group projects or assignments explicitly designated as collaborative must involve equitable contributions from all group members.
 
-·    For individual assignments and assessments, students must complete all work independently unless otherwise specified.
+​	·    For individual assignments and assessments, students must complete all work independently unless otherwise specified.
 
 **Prohibited Tools and Resources** Homework-sharing platforms (e.g., Chegg) or any unauthorized online resources are strictly prohibited for completing assignments or assessments.
 
@@ -371,36 +372,38 @@ Unauthorized use of AI tools, including failing to disclose their use, will be c
 
 ·    Library Support: Chat or make an appointment with a librarian for research needs. [Make an Appointment with a Librarian](https://library.uvm.edu/help/ask_a_librarian/make_an_appointment).
 
-- Writing     Center: Support for writing tutoring and workshops. [Undergraduate      Writing Center](https://www.uvm.edu/undergradwriting), [Graduate      Writing Center](https://www.uvm.edu/gradwriting).
-- Statistician     consult: Chat or make an appointment with statistician to get support with     data analysis. [Statistical Software Support and Consulting Services](https://library.uvm.edu/research/statistical_software_support).
+- Writing Center: Support for writing tutoring and workshops. [Undergraduate      Writing Center](https://www.uvm.edu/undergradwriting), [Graduate      Writing Center](https://www.uvm.edu/gradwriting).
+- Statistician consult: Chat or make an appointment with statistician to get support with     data analysis. [Statistical Software Support and Consulting Services](https://library.uvm.edu/research/statistical_software_support).
 
 # **Technical Support for Students**
 
-·    Technology Readiness: Students, please review the [Technology Checklist](https://www.uvm.edu/it/kb/student-technology-resources/).
+​	·    Technology Readiness: Students, please review the [Technology Checklist](https://www.uvm.edu/it/kb/student-technology-resources/).
 
-·    Technical Helpline: 802-656-2604
+​	·    Technical Helpline: 802-656-2604
 
 **Recording Class Sessions** Our class sessions may be audio-visually recorded for students to review or for those unable to attend.
 
-·    Students who participate with their camera engaged or use a profile image consent to having their video or image recorded.
+​	·    Students who participate with their camera engaged or use a profile image consent to having their video or image recorded.
 
-·    If you do not wish to be recorded, keep your camera off and use only the chat feature for communication.
+​	·    If you do not wish to be recorded, keep your camera off and use only the chat feature for communication.
 
-**Lived Name and Pronoun Information** UVM supports the use of lived names and pronouns to foster inclusivity. Students can update their information in the [UVM Directory](https://www.uvm.edu/it/kb/article/lived-names-and-pronouns/). Changes will reflect in systems like Brightspace and Microsoft Teams.
+**Lived Name and Pronoun Information** 
 
-·    Respect and Inclusion: Students must engage respectfully with classmates and instructors, valuing diverse perspectives and fostering a supportive learning environment.
+​	·    UVM supports the use of lived names and pronouns to foster inclusivity. Students can update their information in the [UVM Directory](https://www.uvm.edu/it/kb/article/lived-names-and-pronouns/). Changes will reflect in systems like Brightspace and Microsoft Teams.
 
-·    Illness Policy: Students should notify the instructor promptly if illness prevents attendance or submission of work.
+​	·    Respect and Inclusion: Students must engage respectfully with classmates and instructors, valuing diverse perspectives and fostering a supportive learning environment.
 
-·    Late Work: Late assignments will only be accepted with prior approval or documented extenuating circumstances.
+​	·    Illness Policy: Students should notify the instructor promptly if illness prevents attendance or submission of work.
+
+​	·    Late Work: Late assignments will only be accepted with prior approval or documented extenuating circumstances.
 
 **Research and Citation Help** For assistance with research topics, finding information, citing sources, and more, UVM Libraries provide a variety of support services. Librarians are available to help via phone, email, chat, text, or by appointment for individual consultations.
 
-·    Howe Library: [Ask Howe](https://library.uvm.edu/askhowe)
+​	·    Howe Library: [Ask Howe](https://library.uvm.edu/askhowe)
 
-·    Dana Medical Library: [Ask Dana](https://dana.uvm.edu/help/ask)
+​	·    Dana Medical Library: [Ask Dana](https://dana.uvm.edu/help/ask)
 
-·    Silver Special Collections Library: [Ask Silver Special Collections](https://specialcollections.uvm.edu/help/ask)
+​	·    Silver Special Collections Library: [Ask Silver Special Collections](https://specialcollections.uvm.edu/help/ask)
 
 **Course Evaluation** All students are expected to complete an evaluation of the course at its conclusion. These evaluations are anonymous and confidential. Feedback provided will be used constructively to improve the course in future iterations.
 
@@ -408,29 +411,29 @@ General Statement Regarding Potential Changes During the Semester The University
 
 **Intellectual Property Statement/Prohibition on Sharing Academic** **Materials** Students are prohibited from publicly sharing or selling academic materials that they did not author. This includes, but is not limited to:
 
-·    Course syllabus, outlines, or presentations authored by the instructor
+​	·    Course syllabus, outlines, or presentations authored by the instructor
 
-·    Practice questions or assessments
+​	·    Practice questions or assessments
 
-·    Text from textbooks or other copyrighted materials used in the course
+​	·    Text from textbooks or other copyrighted materials used in the course
 
 Violations of this policy will be addressed under UVM’s Intellectual Property Policy and the Code of Academic Integrity.
 
 **Tips for Success** To succeed in this course, consider the following tips:
 
-·    Prepare for Class: Stay current with assigned readings and complete homework prior to lectures.
+​	·    Prepare for Class: Stay current with assigned readings and complete homework prior to lectures.
 
-·    Participate Actively: Engage in discussions, labs, and field visits.
+​	·    Participate Actively: Engage in discussions, labs, and field visits.
 
-·    Manage Your Time: Stay organized and track assignment due dates.
+​	·    Manage Your Time: Stay organized and track assignment due dates.
 
-·    Utilize Resources:
+​	·    Utilize Resources:
 
-·    UVM Undergraduate/Graduate Writing Center
+​	·    UVM Undergraduate/Graduate Writing Center
 
-·    Supplemental Instruction and Learning Co-op Tutors
+​	·    Supplemental Instruction and Learning Co-op Tutors
 
-·    Online learning resources: [Checklist for Online Courses](https://learn.uvm.edu/about/support-for-students/checklist-online-credit-courses/)
+​	·    Online learning resources: [Checklist for Online Courses](https://learn.uvm.edu/about/support-for-students/checklist-online-credit-courses/)
 
 **Student Learning Accommodations** In keeping with University policy, any student with a documented disability interested in utilizing ADA accommodations should contact Student Accessibility Services (SAS), the office of Disability Services on campus for students. SAS works with students and faculty in an interactive process to explore reasonable and appropriate accommodations, which are communicated to faculty in an accommodation letter. All students are strongly recommended to discuss with their faculty the accommodations they plan to use in each course. Faculty who receive Letters of Accommodation with [Disability Related Flexible accommodations that go beyond the default accommodations](https://www.uvm.edu/academicsuccess/forms/disability-related-flexibility-agreement) will need to fill out the [Disability Related Flexibility Agreement](https://www.uvm.edu/academicsuccess/forms/disability-related-flexibility-agreement). Any questions from faculty or students on the agreement should be directed to the SAS specialist who is indicated on the letter. 
 
@@ -459,3 +462,4 @@ Religious Holidays: Religions may be practiced in many different ways, and can i
 Promoting Health & Safety: The University of Vermont's number one priority is to support a healthy and safe community: [Center for Health and Wellbeing](https://www.uvm.edu/health) offers a variety of resources, including resources to support physical and mental health and food security, including Counseling and Psychiatry Services (CAPS). The CAPS direct phone line is (802) 656-3340. C.A.R.E. If you are concerned about a UVM community member or are concerned about a specific event, we encourage you to contact the Dean of Students Office (802-656-3380).  If you would like to remain anonymous, you can report your concerns online by [visiting the C.A.R.E. Team website](https://www.uvm.edu/deanofstudents/uvm-care-team).
 
  
+
