@@ -1,6 +1,7 @@
-{: .text-center} # **ALE 5990 72 Biologically Based IPM**  
-
-{: .text-center} ## Summer 2025</center>
+<div class="center-heading">
+  <h1><strong>ALE 5990 72 Biologically Based IPM</strong></h1>
+  <h2>Summer 2025</h2>
+</div>
 ---
 
 # **Course Number, Title, Credit Hours**
