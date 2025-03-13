@@ -92,9 +92,7 @@ Upon completion of this course, students will be able to:
   - [EPA Worker Protection](https://riskmgmt.w3.uvm.edu/courses/)  
   - [Greenhouse Safety](https://riskmgmt.w3.uvm.edu/courses/)  
   - [CHaMPS](https://uvm.scishield.com/)  
-
 - ## **Other Materials**  
-
   - **Lab notebooks** (available at the UVM Bookstore).  
   - **Appropriate attire for field visits**, including closed-toe shoes and weather-appropriate clothing.  
   - **Personal protective equipment** (e.g., gloves and safety goggles), provided for lab activities.
