@@ -179,7 +179,7 @@ Late submissions will be accepted only with prior approval and under extenuating
 
 # **Assignments and Final Project and Lab Report Outline**
 
-### -**Assignment 1: Literature Review on a Biocontrol Agent (Week 4-6)**-
+### ***Assignment 1: Literature Review on a Biocontrol Agent (Week 4-6)***
 
 **Objective:** Research and summarize the current scientific literature on a specific biological control agent.
 
@@ -194,7 +194,7 @@ Late submissions will be accepted only with prior approval and under extenuating
 **Deliverable:** Written summary (2 pages).
 
 
-### **Assignment 2: Biocontrol Implementation Plan (Week 6-7)**
+### ***Assignment 2: Biocontrol Implementation Plan (Week 6-7)***
 
 **Objective:** Develop a practical implementation plan for integrating biological control into a real-world agricultural or greenhouse system.
 
@@ -210,7 +210,7 @@ Late submissions will be accepted only with prior approval and under extenuating
 **Deliverable:** Written summary (2 pages).
 
 
-### **Lab Bioassay Data Analysis & Interpretation Report (Week 11-12)**
+### ***Lab Bioassay Data Analysis & Interpretation Report (Week 11-12)***
 
 **Purpose:** Develop data analysis skills relevant to biocontrol research and field applications.
 
@@ -227,7 +227,7 @@ Late submissions will be accepted only with prior approval and under extenuating
 
 ## **Final Project (Choose One Option)**
 
-### **Option 1: Research Proposal on Biological Control (Graduate School-Level Assignment)**
+### ***Option 1: Research Proposal on Biological Control (Graduate School-Level Assignment)***
 
 **Purpose:** Mimics grant-writing and research proposal development, useful for students considering graduate school or research careers.
 
@@ -245,7 +245,7 @@ Late submissions will be accepted only with prior approval and under extenuating
 - Presentation (10-12 slides, 20 to 30 minutes).
 
 
-### **Option 2: Case Study on a Biocontrol Success or Failure**
+### ***Option 2: Case Study on a Biocontrol Success or Failure***
 
 **Purpose:** Encourages real-world application and critical thinking about how biocontrol strategies translate from theory to practice.
 
@@ -262,7 +262,7 @@ Late submissions will be accepted only with prior approval and under extenuating
 - Presentation (10-12 slides, 20 to 30 minutes).
 
 
-### **Extra Credit: Logic Model (Week 12)**
+### ***Extra Credit: Logic Model (Week 12)***
 
 **Objective:** Develop a logic model to illustrate the inputs, outputs, outcomes, and impacts of the IPM plan.
 
