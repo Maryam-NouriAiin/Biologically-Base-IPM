@@ -8,19 +8,19 @@
 
 # **Course Number, Title, Credit Hours**
 
-·    Course Number: ALE 5990 Z2
+Course Number: ALE 5990 Z2
 
-·    Course Title: Biologically Based IPM
+Course Title: Biologically Based IPM
 
-·    Credit Hours: 3
+Credit Hours: 3
 
 # **Meeting Time, Meeting Pattern, Location**
 
-·    Meeting Time: Tuesdays, 9:00 AM - 12:45 PM
+Meeting Time: Tuesdays, 9:00 AM - 12:45 PM
 
-·    Meeting Pattern: In-person
+Meeting Format: In-person
 
-·    Location: Jeffords Hall
+Location: Jeffords Hall
 
 # **Instructor Information**
 
@@ -29,9 +29,9 @@
 - **Contact Info:** [Maryam.nouri-aiin@uvm.edu](mailto:Maryam.nouri-aiin@uvm.edu)
 - **Emergency Contact:**     For urgent matters, please text (802)     318-2652.
 
-·    **Office Hours:** Wednesday 10:00 am- 12:00 pm
+    ·    **Office Hours:** Wednesday 10:00 am- 12:00 pm
 
-·    **Location:** In person at Jeffords Hall….
+    ·    **Location:** In person at Jeffords Hall….
 
 # **Pre-requisites or co-requisites**
 
