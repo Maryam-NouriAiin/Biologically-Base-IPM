@@ -179,7 +179,7 @@ Late submissions will be accepted only with prior approval and under extenuating
 
 # **Assignments and Final Project and Lab Report Outline**
 
-### **Assignment 1: Literature Review on a Biocontrol Agent (Week 4-6)**
+### -**Assignment 1: Literature Review on a Biocontrol Agent (Week 4-6)**-
 
 **Objective:** Research and summarize the current scientific literature on a specific biological control agent.
 
