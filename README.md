@@ -4,7 +4,7 @@
 
 **Summer 2025**  
 
-**Course Syllabus**  
+# Course Syllabus
 ---
 </div>
 
