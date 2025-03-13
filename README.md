@@ -29,9 +29,9 @@ Location: Jeffords Hall
 - **Contact Info:** [Maryam.nouri-aiin@uvm.edu](mailto:Maryam.nouri-aiin@uvm.edu)
 - **Emergency Contact:**     For urgent matters, please text (802)     318-2652.
 
-    ·    **Office Hours:** Wednesday 10:00 am- 12:00 pm
+            ·    **Office Hours:** Wednesday 10:00 am- 12:00 pm
 
-    ·    **Location:** In person at Jeffords Hall….
+            ·    **Location:** In person at Jeffords Hall….
 
 # **Pre-requisites or co-requisites**
 
@@ -53,31 +53,31 @@ Through **hands-on laboratory work, bioassays, data analysis, and field visits**
 
 Upon completion of this course, students will be able to:
 
-·    **Analyze the role of biological control in IPM** and evaluate its ecological and economic impacts.
+            ·    **Analyze the role of biological control in IPM** and evaluate its ecological and economic impacts.
 
-·    **Identify and assess the effectiveness of key biocontrol agents**, including entomopathogenic fungi, bacteria, viruses, nematodes, and natural enemies.
+            ·    **Identify and assess the effectiveness of key biocontrol agents**, including entomopathogenic fungi, bacteria, viruses, nematodes, and natural enemies.
 
-·    **Design and conduct bioassays** to test microbial biopesticides and evaluate their efficacy.
+            ·    **Design and conduct bioassays** to test microbial biopesticides and evaluate their efficacy.
 
-·    **Interpret experimental data using statistical methods** to assess biocontrol performance.
+            ·    **Interpret experimental data using statistical methods** to assess biocontrol performance.
 
-·    **Investigate resistance management strategies** to enhance the long-term success of biological control.
+            ·    **Investigate resistance management strategies** to enhance the long-term success of biological control.
 
-·    **Apply habitat manipulation and conservation approaches** to optimize biocontrol efficacy.
+            ·    **Apply habitat manipulation and conservation approaches** to optimize biocontrol efficacy.
 
-·    **Explore cutting-edge innovations in biological control**, including RNAi and gene-editing technologies.
+            ·    **Explore cutting-edge innovations in biological control**, including RNAi and gene-editing technologies.
 
-·    **Develop a research proposal** integrating biological control principles into a real-world pest management challenge.
+            ·    **Develop a research proposal** integrating biological control principles into a real-world pest management challenge.
 
 # **Required Course Materials**
 
-·    **Books:** No required textbook.
+- **Books:** No required textbook.
 
-·    **Articles and Readings:** Supplemental readings and case studies will be provided on Brightspace.
+- **Articles and Readings:** Supplemental readings and case studies will be provided on Brightspace.
 
-·    **Media:** Videos and tutorials on IPM techniques and biological control strategies will be accessible via Brightspace.
+- **Media:** Videos and tutorials on IPM techniques and biological control strategies will be accessible via Brightspace.
 
-·    **Required Software and Platforms****:** 
+- **Required Software and Platforms****:** 
 
 ​		• **Brightspace:** All course materials, including lecture slides, reading assignments, and quizzes, will be hosted on Brightspace. Weekly quizzes and some assignments must be submitted through the platform. Instructions for Brightspace access: [Brightspace for Students](https://www.uvm.edu/it/kb/article/brightspace-for-students/).
 
@@ -85,9 +85,9 @@ Upon completion of this course, students will be able to:
 
 ​		• **R Studio:** Data analysis software for lab and field data. R is free to download and install: [Download R](https://cran.r-project.org/).
 
-·    **Required Lab Safety & Training****:** [EPA Worker Protection](https://riskmgmt.w3.uvm.edu/courses/), [Greenhouse Safety](https://riskmgmt.w3.uvm.edu/courses/), [CHaMPS](https://uvm.scishield.com/).
+- **Required Lab Safety & Training****:** [EPA Worker Protection](https://riskmgmt.w3.uvm.edu/courses/), [Greenhouse Safety](https://riskmgmt.w3.uvm.edu/courses/), [CHaMPS](https://uvm.scishield.com/).
 
-·    **Other Materials:**
+- **Other Materials:**
 
 ​		• Lab notebooks (available at the UVM Bookstore).
 
@@ -99,11 +99,11 @@ Upon completion of this course, students will be able to:
 
 **Attendance:** Attendance and participation are vital for success in this course. Students are expected to:
 
-​	·    Attend all lectures, labs, and field visits.
+​	            ·    Attend all lectures, labs, and field visits.
 
-​	·    Actively engage in discussions and group activities.
+​	            ·    Actively engage in discussions and group activities.
 
-​	·    Notify the instructor in advance if unable to attend due to illness or extenuating circumstances.
+​	            ·    Notify the instructor in advance if unable to attend due to illness or extenuating circumstances.
 
 **Policy on Illness and Absences:** Students experiencing acute illnesses (e.g., flu, stomach bug) are encouraged to rest and recover. In such cases, students should notify the instructor via email. Make-up work will be arranged as needed.
 
