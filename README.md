@@ -5,9 +5,9 @@
 **Summer 2025**  
 
 **Course Syllabus**  
-
-</div>
 ---
+</div>
+
 
 # **Course Number, Title, Credit Hours**
 
