@@ -1,19 +1,7 @@
 <div align="center">
-
-
-
-# **ALE 5990 72 Biologically Based IPM**  
-
-
-
-**Summer 2025**  
-
-
-
-**Course Syllabus**  
-
-
-
+    <h1><strong>ALE 5990 72 Biologically Based IPM</strong></h1>
+    <h2>Summer 2025</h2>
+    <h3>Course Syllabus</h3>
 </div>
 
 ---
