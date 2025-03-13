@@ -82,23 +82,22 @@ Upon completion of this course, students will be able to:
 - **Articles and Readings:** Supplemental readings and case studies will be provided on Brightspace.
 - **Media:** Videos and tutorials on IPM techniques and biological control strategies will be accessible via Brightspace.  
 
-## **Required Software and Platforms**  
+- **Required Software and Platforms**  
 
-- **Brightspace:** All course materials, including lecture slides, reading assignments, and quizzes, will be hosted on Brightspace. Weekly quizzes and some assignments must be submitted through the platform. Instructions for Brightspace access: [Brightspace for Students](https://www.uvm.edu/it/kb/article/brightspace-for-students/).  
-- **Microsoft Teams:** Used for virtual office hours and team collaborations as needed. Students should ensure they have access to Teams through their UVM credentials.  
-- **R Studio:** Data analysis software for lab and field data. R is free to download and install: [Download R](https://cran.r-project.org/).  
+  - *Brightspace:* All course materials, including lecture slides, reading assignments, and quizzes, will be hosted on Brightspace. Weekly quizzes and some assignments must be submitted through the platform. Instructions for Brightspace access: [Brightspace for Students](https://www.uvm.edu/it/kb/article/brightspace-for-students/).  
+  - *Microsoft Teams:* Used for virtual office hours and team collaborations as needed. Students should ensure they have access to Teams through their UVM credentials.  
+  - *R Studio:* Data analysis software for lab and field data. R is free to download and install: [Download R](https://cran.r-project.org/).  
+- **Required Lab Safety & Training**  
 
-## **Required Lab Safety & Training**  
+  - [EPA Worker Protection](https://riskmgmt.w3.uvm.edu/courses/)  
+  - [Greenhouse Safety](https://riskmgmt.w3.uvm.edu/courses/)  
+  - [CHaMPS](https://uvm.scishield.com/)  
 
-- [EPA Worker Protection](https://riskmgmt.w3.uvm.edu/courses/)  
-- [Greenhouse Safety](https://riskmgmt.w3.uvm.edu/courses/)  
-- [CHaMPS](https://uvm.scishield.com/)  
+- ## **Other Materials**  
 
-## **Other Materials**  
-
-- **Lab notebooks** (available at the UVM Bookstore).  
-- **Appropriate attire for field visits**, including closed-toe shoes and weather-appropriate clothing.  
-- **Personal protective equipment** (e.g., gloves and safety goggles), provided for lab activities.
+  - **Lab notebooks** (available at the UVM Bookstore).  
+  - **Appropriate attire for field visits**, including closed-toe shoes and weather-appropriate clothing.  
+  - **Personal protective equipment** (e.g., gloves and safety goggles), provided for lab activities.
 
 # **Attendance Policy and Classroom Environment Expectations**
 
@@ -149,11 +148,9 @@ This course runs throughout the summer, and I understand that occasional schedul
 ## **Late Policy**  
 Late submissions will be accepted only with prior approval and under extenuating circumstances. Unapproved late work may receive a grade reduction.
 
-
 # **Lab & Field Participation**
 - **Objective**: Gain hands-on experience with biological control techniques and monitoring methods.
 - **Assessment Criteria**: Active participation, engagement in activities, and adherence to safety protocols.
-  
 
 # **Assignments**
 - **Objective**: Strengthen practical skills and deepen understanding of biological control concepts.
