@@ -91,36 +91,38 @@ Upon completion of this course, students will be able to:
 
   - [EPA Worker Protection](https://riskmgmt.w3.uvm.edu/courses/)  
   - [Greenhouse Safety](https://riskmgmt.w3.uvm.edu/courses/)  
-  - [CHaMPS](https://uvm.scishield.com/)  
-- ## **Other Materials**  
+  - [CHaMPS](https://uvm.scishield.com/)
+  
+- **Other Materials**  
   - **Lab notebooks** (available at the UVM Bookstore).  
   - **Appropriate attire for field visits**, including closed-toe shoes and weather-appropriate clothing.  
   - **Personal protective equipment** (e.g., gloves and safety goggles), provided for lab activities.
 
+---
 # **Attendance Policy and Classroom Environment Expectations**
 
-## **Attendance**
+**Attendance**
 Attendance and participation are vital for success in this course. Students are expected to:
 
 - Attend all lectures, labs, and field visits.
 - Actively engage in discussions and group activities.
 - Notify the instructor in advance if unable to attend due to illness or extenuating circumstances.
 
-### **Policy on Illness and Absences**  
+**Policy on Illness and Absences**  
 Students experiencing acute illnesses (e.g., flu, stomach bug) are encouraged to rest and recover. In such cases, students should notify the instructor via email. Make-up work will be arranged as needed.
 
-### **Online Attendance Option**  
+**Online Attendance Option**  
 This course runs throughout the summer, and I understand that occasional scheduling conflicts may arise. To accommodate this, each student may attend up to **two class sessions online** during the summer.
 
 - A lecture link will be provided **only** to students who request online attendance **at least one week in advance** of the session they wish to attend.
 - **Lab sessions cannot be made up**, so students attending online are responsible for coordinating with classmates to maintain their experiments and stay updated on lab activities.
 
-## **Classroom Environment Expectations**
+**Classroom Environment Expectations**
 - Complete all assigned readings and homework prior to class.
 - Maintain respect for peers, instructors, and differing opinions.
 - Adhere to the Classroom Code of Conduct outlined in the [Undergraduate Catalogue](https://www.uvm.edu/catalogue).
 
-### **Confidentiality and Dialogue**
+**Confidentiality and Dialogue**
 - Discussions should remain respectful and constructive.
 - All students are expected to contribute to building an inclusive and supportive learning community.
 
@@ -128,7 +130,7 @@ This course runs throughout the summer, and I understand that occasional schedul
 
 # **Grading Criteria/Policies**
 
-## **Grade Components**
+**Grade Components**
 - **Lab Attendance & Participation**: 20%  
 - **Lecture & Field Day Participation**: 15%  
 - **Assignments (2 total)**: 25%  
@@ -136,41 +138,38 @@ This course runs throughout the summer, and I understand that occasional schedul
 - **Final Project & Presentation**: 25%  
 - **Extra Credit: Logic Model** (Up to 10% boost to final grade, optional)  
 
-## **Grading Scale**
+**Grading Scale**
 - **A**: 90–100%  
 - **B**: 80–89%  
 - **C**: 70–79%  
 - **D**: 60–69%  
 - **F**: 59% and below  
 
-## **Late Policy**  
+**Late Policy**  
 Late submissions will be accepted only with prior approval and under extenuating circumstances. Unapproved late work may receive a grade reduction.
 
-# **Lab & Field Participation**
+**Lab & Field Participation**
 - **Objective**: Gain hands-on experience with biological control techniques and monitoring methods.
 - **Assessment Criteria**: Active participation, engagement in activities, and adherence to safety protocols.
 
-# **Assignments**
+**Assignments**
 - **Objective**: Strengthen practical skills and deepen understanding of biological control concepts.
 - **Format**: Written reports or presentations, incorporating diagrams and references where applicable.
 - **Submission**: Upload via Brightspace by the designated deadlines.
   - **Assignment 1**: Due between Weeks 4–6  
   - **Assignment 2**: Due between Weeks 6–8  
 
-
-# **Lab Report & Presentation**
+**Lab Report & Presentation**
 - **Objective**: Integrate course knowledge and skills by developing a comprehensive proposal or report.
 - **Format**: A structured, typed report accompanied by a PowerPoint presentation.
 - **Submission Deadline**: Final report and presentation slides due by Week 11-12.
 
-
-# **Final Project & Presentation**
+**Final Project & Presentation**
 - **Objective**: Integrate course knowledge and skills by developing a comprehensive proposal or report.
 - **Format**: A structured, typed report accompanied by a PowerPoint presentation.
 - **Submission Deadline**: Final report and presentation slides due by Week 12.
 
-
-# **Key Deadlines Overview**
+**Key Deadlines Overview**
 - **Assignments**: Weeks 4–8  
 - **Final Lab Report & Presentation**: Week 11-12  
 - **Final Project Submission & Presentation**: Week 12  
@@ -194,7 +193,6 @@ Late submissions will be accepted only with prior approval and under extenuating
 
 **Deliverable:** Written summary (2 pages).
 
----
 
 ## **Assignment 2: Biocontrol Implementation Plan (Week 6-7)**
 
@@ -211,7 +209,6 @@ Late submissions will be accepted only with prior approval and under extenuating
 
 **Deliverable:** Written summary (2 pages).
 
----
 
 ## **Lab Bioassay Data Analysis & Interpretation Report (Week 11-12)**
 
@@ -227,9 +224,8 @@ Late submissions will be accepted only with prior approval and under extenuating
 **Deliverable:** Short report (~3-5 pages) with figures, tables, and discussion.  
 **Presentation:** 15 to 20-minute presentation.
 
----
 
-# **Final Project (Choose One Option)**
+## **Final Project (Choose One Option)**
 
 ## **Option 1: Research Proposal on Biological Control (Graduate School-Level Assignment)**
 
@@ -248,7 +244,6 @@ Late submissions will be accepted only with prior approval and under extenuating
 - 4-8 page research proposal in USDA-style or another scientific format.  
 - Presentation (10-12 slides, 20 to 30 minutes).
 
----
 
 ## **Option 2: Case Study on a Biocontrol Success or Failure**
 
@@ -266,9 +261,8 @@ Late submissions will be accepted only with prior approval and under extenuating
 - Written report (4-7 pages).  
 - Presentation (10-12 slides, 20 to 30 minutes).
 
----
 
-# **Extra Credit: Logic Model (Week 12)**
+## **Extra Credit: Logic Model (Week 12)**
 
 **Objective:** Develop a logic model to illustrate the inputs, outputs, outcomes, and impacts of the IPM plan.
 
@@ -317,7 +311,7 @@ This is an in-person course held weekly on **Tuesdays from 9:00 AM to 12:45 PM**
 
 ---
 
-# **Academic Integrity and AI** 
+## **Academic Integrity and AI** 
 This course adheres to the **University of Vermont’s Academic Integrity Policy**, which addresses plagiarism, fabrication, collusion, and cheating. Violations of academic integrity will result in disciplinary action as outlined by the policy.
 
 - Students **may not use generative AI tools** (e.g., ChatGPT, Perplexity) to complete assignments, presentations, or any other individual assessments.
@@ -326,18 +320,18 @@ This course adheres to the **University of Vermont’s Academic Integrity Policy
 
 ---
 
-# **Collaboration Rules**
+## **Collaboration Rules**
 - Group projects or assignments explicitly designated as **collaborative** must involve **equitable contributions** from all group members.
 - For **individual assignments and assessments**, students must **complete all work independently** unless otherwise specified.
 
 ---
 
-# **Prohibited Tools and Resources**
+## **Prohibited Tools and Resources**
 Homework-sharing platforms (e.g., Chegg) or any unauthorized online resources are strictly **prohibited** for completing assignments or assessments.
 
 ---
 
-# **Tutors and Other Support**
+## **Tutors and Other Support**
 
 - **Library Support**: Chat or make an appointment with a librarian for research needs.  
   [Make an Appointment with a Librarian](https://library.uvm.edu/help/ask_a_librarian/make_an_appointment)
@@ -349,13 +343,13 @@ Homework-sharing platforms (e.g., Chegg) or any unauthorized online resources ar
 
 ---
 
-# **Technical Support for Students**
+## **Technical Support for Students**
 - **Technology Readiness**: Students, please review the [Technology Checklist](https://www.uvm.edu/it/kb/student-technology-resources/).
 - **Technical Helpline**: **802-656-2604**
 
 ---
 
-# **Recording Class Sessions**
+## **Recording Class Sessions**
 Our class sessions **may be audio-visually recorded** for students to review or for those unable to attend.
 
 - Students who participate with their camera engaged or use a profile image **consent to having their video or image recorded**.
@@ -363,13 +357,13 @@ Our class sessions **may be audio-visually recorded** for students to review or 
 
 ---
 
-# **Inclusivity, Communication, and Course Policies**
+## **Inclusivity, Communication, and Course Policies**
 - **UVM supports the use of lived names and pronouns** to foster inclusivity. Students can update their information in the [UVM Directory](https://www.uvm.edu/it/kb/article/lived-names-and-pronouns/). Changes will reflect in systems like **Brightspace and Microsoft Teams**.
 - **Respect and Inclusion**: Students must engage **respectfully** with classmates and instructors, valuing **diverse perspectives** and fostering a **supportive learning environment**.
 - **Illness Policy**: Students should notify the instructor promptly if **illness prevents attendance** or submission of work.
 - **Late Work**: Late assignments will only be **accepted with prior approval** or documented **extenuating circumstances**.
 
-# **Research and Citation Help**
+## **Research and Citation Help**
 For assistance with research topics, finding information, citing sources, and more, UVM Libraries provide a variety of support services. Librarians are available to help via phone, email, chat, text, or by appointment for individual consultations.
 
 - **Howe Library:** [Ask Howe](https://library.uvm.edu/askhowe)
@@ -378,17 +372,17 @@ For assistance with research topics, finding information, citing sources, and mo
 
 ---
 
-# **Course Evaluation**
+## **Course Evaluation**
 All students are expected to complete an evaluation of the course at its conclusion. These evaluations are anonymous and confidential. Feedback provided will be used constructively to improve the course in future iterations.
 
 ---
 
-# **General Statement Regarding Potential Changes During the Semester**
+## **General Statement Regarding Potential Changes During the Semester**
 The University of Vermont reserves the right to make changes in course offerings, mode of delivery, degree requirements, charges, regulations, and procedures as necessary. These changes may be required to address educational, financial, health, safety, or welfare considerations, or to comply with governmental, accreditation, or public health directives. For more details, visit the [UVM Catalogue](http://catalogue.uvm.edu/).
 
 ---
 
-# **Intellectual Property Statement / Prohibition on Sharing Academic Materials**
+## **Intellectual Property Statement / Prohibition on Sharing Academic Materials**
 Students are prohibited from publicly sharing or selling academic materials that they did not author. This includes, but is not limited to:
 
 - Course syllabus, outlines, or presentations authored by the instructor
@@ -399,7 +393,7 @@ Violations of this policy will be addressed under UVM’s **Intellectual Propert
 
 ---
 
-# **Tips for Success**
+## **Tips for Success**
 To succeed in this course, consider the following tips:
 
 - **Prepare for Class:** Stay current with assigned readings and complete homework prior to lectures.
@@ -412,7 +406,7 @@ To succeed in this course, consider the following tips:
 
 ---
 
-# **Student Learning Accommodations**
+## **Student Learning Accommodations**
 In keeping with University policy, any student with a documented disability interested in utilizing ADA accommodations should contact **Student Accessibility Services (SAS)**, the office of Disability Services on campus for students. SAS works with students and faculty in an interactive process to explore reasonable and appropriate accommodations, which are communicated to faculty in an accommodation letter. 
 
 All students are strongly recommended to discuss with their faculty the accommodations they plan to use in each course. Faculty who receive **Letters of Accommodation** with [Disability Related Flexible accommodations](https://www.uvm.edu/academicsuccess/forms/disability-related-flexibility-agreement) will need to fill out the [Disability Related Flexibility Agreement](https://www.uvm.edu/academicsuccess/forms/disability-related-flexibility-agreement). Any questions from faculty or students on the agreement should be directed to the SAS specialist who is indicated on the letter.  
@@ -450,7 +444,7 @@ Religions may be practiced in many different ways, and can impact participation 
 
 ---
 
-# **Promoting Health & Safety**
+## **Promoting Health & Safety**
 The University of Vermont's number one priority is to support a **healthy and safe community**.  
 
 - The [**Center for Health and Wellbeing**](https://www.uvm.edu/health) offers a variety of resources, including physical and mental health support, and food security assistance.  
