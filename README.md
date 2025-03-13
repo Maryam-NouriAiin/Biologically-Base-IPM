@@ -1,9 +1,12 @@
+<div align="center">
 
-# **ALE 5990 72 Biologically Based IPM**
+# **ALE 5990 72 Biologically Based IPM**  
 
-**Summer 2025**
+**Summer 2025**  
 
-**Course Syllabus**
+**Course Syllabus**  
+
+</div>
 
 ---
 
@@ -146,13 +149,11 @@ This course runs throughout the summer, and I understand that occasional schedul
 ## **Late Policy**  
 Late submissions will be accepted only with prior approval and under extenuating circumstances. Unapproved late work may receive a grade reduction.
 
----
 
 # **Lab & Field Participation**
 - **Objective**: Gain hands-on experience with biological control techniques and monitoring methods.
 - **Assessment Criteria**: Active participation, engagement in activities, and adherence to safety protocols.
-
----
+  
 
 # **Assignments**
 - **Objective**: Strengthen practical skills and deepen understanding of biological control concepts.
@@ -161,21 +162,18 @@ Late submissions will be accepted only with prior approval and under extenuating
   - **Assignment 1**: Due between Weeks 4–6  
   - **Assignment 2**: Due between Weeks 6–8  
 
----
 
 # **Lab Report & Presentation**
 - **Objective**: Integrate course knowledge and skills by developing a comprehensive proposal or report.
 - **Format**: A structured, typed report accompanied by a PowerPoint presentation.
 - **Submission Deadline**: Final report and presentation slides due by Week 11-12.
 
----
 
 # **Final Project & Presentation**
 - **Objective**: Integrate course knowledge and skills by developing a comprehensive proposal or report.
 - **Format**: A structured, typed report accompanied by a PowerPoint presentation.
 - **Submission Deadline**: Final report and presentation slides due by Week 12.
 
----
 
 # **Key Deadlines Overview**
 - **Assignments**: Weeks 4–8  
