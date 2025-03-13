@@ -304,12 +304,12 @@ Please note that the schedule is subject to change based on **guest lecturer ava
 ## **Pedagogy**
 This course employs a dynamic blend of interactive lectures, collaborative group activities, and experiential learning through engaging lab sessions and field visits. Students will gain practical, hands-on experience in culturing microbial insecticides, releasing beneficial insects in greenhouse settings, and analyzing their outcomes. 
 
----
+
 
 ## **Modality Description/Outline**
 This is an in-person course held weekly on **Tuesdays from 9:00 AM to 12:45 PM**. Labs will take place in **Jeffords Hall and the UVM Greenhouse Facility**, with field visits scheduled at the **UVM Horticultural Research Center** and **Intervale Community Farm**. All course materials will be available on **Brightspace**. 
 
----
+
 
 ## **Academic Integrity and AI** 
 This course adheres to the **University of Vermont’s Academic Integrity Policy**, which addresses plagiarism, fabrication, collusion, and cheating. Violations of academic integrity will result in disciplinary action as outlined by the policy.
@@ -318,18 +318,18 @@ This course adheres to the **University of Vermont’s Academic Integrity Policy
 - Students **may use AI tools** to assist with brainstorming ideas, outlining, or improving grammar for assignments, but **must cite the tool used and indicate its purpose**.
 - **Unauthorized use of AI tools**, including failing to disclose their use, will be considered a breach of academic integrity.
 
----
+
 
 ## **Collaboration Rules**
 - Group projects or assignments explicitly designated as **collaborative** must involve **equitable contributions** from all group members.
 - For **individual assignments and assessments**, students must **complete all work independently** unless otherwise specified.
 
----
+
 
 ## **Prohibited Tools and Resources**
 Homework-sharing platforms (e.g., Chegg) or any unauthorized online resources are strictly **prohibited** for completing assignments or assessments.
 
----
+
 
 ## **Tutors and Other Support**
 
@@ -341,13 +341,13 @@ Homework-sharing platforms (e.g., Chegg) or any unauthorized online resources ar
 - **Statistician Consult**: Chat or make an appointment with a statistician for support with data analysis.  
   [Statistical Software Support and Consulting Services](https://library.uvm.edu/research/statistical_software_support)
 
----
+
 
 ## **Technical Support for Students**
 - **Technology Readiness**: Students, please review the [Technology Checklist](https://www.uvm.edu/it/kb/student-technology-resources/).
 - **Technical Helpline**: **802-656-2604**
 
----
+
 
 ## **Recording Class Sessions**
 Our class sessions **may be audio-visually recorded** for students to review or for those unable to attend.
@@ -355,7 +355,7 @@ Our class sessions **may be audio-visually recorded** for students to review or 
 - Students who participate with their camera engaged or use a profile image **consent to having their video or image recorded**.
 - If you do **not** wish to be recorded, keep your camera off and use only the **chat feature** for communication.
 
----
+
 
 ## **Inclusivity, Communication, and Course Policies**
 - **UVM supports the use of lived names and pronouns** to foster inclusivity. Students can update their information in the [UVM Directory](https://www.uvm.edu/it/kb/article/lived-names-and-pronouns/). Changes will reflect in systems like **Brightspace and Microsoft Teams**.
@@ -370,17 +370,17 @@ For assistance with research topics, finding information, citing sources, and mo
 - **Dana Medical Library:** [Ask Dana](https://dana.uvm.edu/help/ask)
 - **Silver Special Collections Library:** [Ask Silver Special Collections](https://specialcollections.uvm.edu/help/ask)
 
----
+
 
 ## **Course Evaluation**
 All students are expected to complete an evaluation of the course at its conclusion. These evaluations are anonymous and confidential. Feedback provided will be used constructively to improve the course in future iterations.
 
----
+
 
 ## **General Statement Regarding Potential Changes During the Semester**
 The University of Vermont reserves the right to make changes in course offerings, mode of delivery, degree requirements, charges, regulations, and procedures as necessary. These changes may be required to address educational, financial, health, safety, or welfare considerations, or to comply with governmental, accreditation, or public health directives. For more details, visit the [UVM Catalogue](http://catalogue.uvm.edu/).
 
----
+
 
 ## **Intellectual Property Statement / Prohibition on Sharing Academic Materials**
 Students are prohibited from publicly sharing or selling academic materials that they did not author. This includes, but is not limited to:
@@ -391,7 +391,7 @@ Students are prohibited from publicly sharing or selling academic materials that
 
 Violations of this policy will be addressed under UVM’s **Intellectual Property Policy** and the **Code of Academic Integrity**.
 
----
+
 
 ## **Tips for Success**
 To succeed in this course, consider the following tips:
@@ -404,7 +404,7 @@ To succeed in this course, consider the following tips:
   - **Supplemental Instruction and Learning Co-op Tutors**
   - **Online learning resources:** [Checklist for Online Courses](https://learn.uvm.edu/about/support-for-students/checklist-online-credit-courses/)
 
----
+
 
 ## **Student Learning Accommodations**
 In keeping with University policy, any student with a documented disability interested in utilizing ADA accommodations should contact **Student Accessibility Services (SAS)**, the office of Disability Services on campus for students. SAS works with students and faculty in an interactive process to explore reasonable and appropriate accommodations, which are communicated to faculty in an accommodation letter. 
@@ -417,7 +417,7 @@ All students are strongly recommended to discuss with their faculty the accommod
 - **Email:** [access@uvm.edu](mailto:access@uvm.edu)  
 - **Website:** [www.uvm.edu/access](http://www.uvm.edu/access)  
 
----
+
 
 # **Important UVM Policies**
 
@@ -442,7 +442,7 @@ If you would like to contest a grade, please follow the procedures [outlined in 
 ### **Religious Holidays**  
 Religions may be practiced in many different ways, and can impact participation in classes variably. Students have the right to practice the religion of their choice. Each semester, students should submit in writing to their instructors as early as possible and at least one week prior to their documented religious holiday the date(s) of the conflict or absence. Faculty must permit students who miss work or exams for the purpose of religious observance to make up this work. The complete policy is [here](https://www.uvm.edu/registrar/religious-holidays).
 
----
+
 
 ## **Promoting Health & Safety**
 The University of Vermont's number one priority is to support a **healthy and safe community**.  
